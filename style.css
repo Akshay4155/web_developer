@@ -1,0 +1,30 @@
+html{
+    margin: 0;
+    margin-right: 0px;
+}
+h3{
+    text-align: center;
+    font-size: calc(30px+4vw);
+
+}
+button{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    border-radius: 20px;
+    background-color: yellow;
+    margin-top: 5.5in;
+}
+body{
+    margin: 0px;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    transition all: 0.5s;
+    transform:scale(2px)
+}
+
+
+  
